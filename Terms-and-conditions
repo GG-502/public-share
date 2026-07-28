@@ -1,49 +1,106 @@
-# Terms and Conditions
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms and Conditions</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            background-color: white;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #34495e;
+            margin-top: 30px;
+        }
+        .effective-date {
+            font-weight: bold;
+            color: #e74c3c;
+            margin-bottom: 20px;
+        }
+        p {
+            margin: 12px 0;
+        }
+        strong {
+            color: #2c3e50;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .contact-info {
+            background-color: #ecf0f1;
+            padding: 15px;
+            border-left: 4px solid #3498db;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Terms and Conditions</h1>
+        <p class="effective-date">Effective Date: July 24, 2026</p>
+        
+        <p>These Terms and Conditions ("Terms") govern your use of the SMS text messaging service ("Service") provided by Property Assistant for tenant maintenance requests and related communications.</p>
 
-**Effective Date:** July 24, 2026
+        <h2>Description of Service</h2>
+        <p>The Service allows tenants to opt-in by texting START to (502) 660-8679, after which they may text maintenance requests, appointment scheduling, and callback requests to Property Assistant.</p>
 
-These Terms and Conditions ("Terms") govern your use of the SMS text messaging service ("Service") provided by Property Assistant for tenant maintenance requests and related communications.
+        <h2>Opt-In / Consent</h2>
+        <p>By texting START to (502) 660-8679, you consent to receive SMS messages from Property Assistant related to maintenance requests, appointment confirmations, and emergency notices as described above.</p>
 
-## Description of Service
+        <h2>Message Frequency</h2>
+        <p>Message frequency varies based on your maintenance activity and interactions with the Service. There is no fixed number of messages sent per month.</p>
 
-The Service allows tenants to opt-in by texting START to (502) 660-8679, after which they may text maintenance requests, appointment scheduling, and callback requests to Property Assistant. The Service will respond to categorize your request, propose an appointment date/time or arrange a callback, and send a summary confirmation once details are agreed upon. If a message indicates a possible life-safety emergency (such as a gas leak, flooding, or fire), the Service will send you instructions to contact 911 and will separately notify the property manager.
+        <h2>Cost of Messages</h2>
+        <p>Message and data rates may apply. Charges will vary based on your mobile carrier and messaging plan. Property Assistant does not charge for use of this Service beyond your carrier's standard messaging rates.</p>
 
-## Opt-In / Consent
+        <h2>Opt-Out</h2>
+        <p>You may cancel the Service at any time by replying <strong>STOP</strong> to any message you receive from us. After you send the SMS message "STOP," we will send you an SMS message confirming your opt-out.</p>
 
-By texting START to (502) 660-8679, you consent to receive SMS messages from Property Assistant related to maintenance requests, appointment confirmations, and emergency notices as described above.
+        <h2>Help</h2>
+        <p>For help at any time, reply <strong>HELP</strong> to any message, or contact Gloria Marshall at <a href="mailto:gloriaemarshall@icloud.com">gloriaemarshall@icloud.com</a> or <a href="tel:502-807-6153">502-807-6153</a>.</p>
 
-## Message Frequency
+        <h2>Supported Carriers</h2>
+        <p>Carriers are not liable for delayed or undelivered messages.</p>
 
-Message frequency varies based on your maintenance activity and interactions with the Service. There is no fixed number of messages sent per month.
+        <h2>Limitations of Service</h2>
+        <p>The Service is intended for tenant maintenance communication only and is not a substitute for contacting emergency services directly. In the event of an immediate life-threatening emergency, always contact emergency services (911) directly.</p>
 
-## Cost of Messages
+        <h2>Changes to the Service</h2>
+        <p>We reserve the right to modify or discontinue the Service, or these Terms, at any time. Continued use of the Service after changes are posted constitutes acceptance of the updated Terms.</p>
 
-Message and data rates may apply. Charges will vary based on your mobile carrier and messaging plan. Property Assistant does not charge for use of this Service beyond your carrier's standard messaging rates.
+        <h2>Privacy</h2>
+        <p>Your use of the Service is also governed by our <a href="./privacy-policy.md">Privacy Policy</a>, which describes how your information is collected, used, and protected.</p>
 
-## Opt-Out
-
-You may cancel the Service at any time by replying **STOP** to any message you receive from us. After you send the SMS message "STOP," we will send you an SMS message confirming your opt-out. You will no longer receive SMS messages from this Service. If you would like to rejoin, you may contact Property Assistant directly to be re-enrolled.
-
-## Help
-
-For help at any time, reply **HELP** to any message, or contact Gloria Marshall at gloriaemarshall@icloud.com or 502-807-6153.
-
-## Supported Carriers
-
-Carriers are not liable for delayed or undelivered messages.
-
-## Limitations of Service
-
-The Service is intended for tenant maintenance communication only and is not a substitute for contacting emergency services directly. In the event of an immediate life-threatening emergency, always contact 911 first.
-
-## Changes to the Service
-
-We reserve the right to modify or discontinue the Service, or these Terms, at any time. Continued use of the Service after changes are posted constitutes acceptance of the updated Terms.
-
-## Privacy
-
-Your use of the Service is also governed by our [Privacy Policy](./privacy-policy.md), which describes how your information is collected, used, and protected.
-
-## Contact
-
-Questions about these Terms should be directed to Gloria Marshall at gloriaemarshall@icloud.com or 502-807-6153.
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>Questions about these Terms should be directed to:</p>
+            <p>
+                <strong>Gloria Marshall</strong><br>
+                Email: <a href="mailto:gloriaemarshall@icloud.com">gloriaemarshall@icloud.com</a><br>
+                Phone: <a href="tel:502-807-6153">502-807-6153</a>
+            </p>
+        </div>
+    </div>
+</body>
+</html>
