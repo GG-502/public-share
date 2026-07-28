@@ -1,53 +1,79 @@
-# Privacy Policy
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+      color: #222;
+      background: #fff;
+    }
+    h1, h2 {
+      line-height: 1.2;
+    }
+    h1 {
+      margin-bottom: 0.2em;
+    }
+    .effective-date {
+      margin-top: 0;
+      font-style: italic;
+      color: #555;
+    }
+    ul {
+      padding-left: 1.4rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p class="effective-date"><strong>Effective Date:</strong> July 24, 2026</p>
 
-**Effective Date:** July 24, 2026
+  <p>This Privacy Policy describes how Property Assistant ("we," "us," or "our") collects, uses, and protects information in connection with our SMS text messaging service for tenant maintenance requests.</p>
 
-This Privacy Policy describes how Property Assistant ("we," "us," or "our") collects, uses, and protects information in connection with our SMS text messaging service for tenant maintenance requests.
+  <h2>Information We Collect</h2>
+  <p>When you text START to (502) 660-8679 to opt in, or otherwise send us a message, we collect and store your mobile phone number along with any messages you send to us regarding maintenance requests, appointments, or related communications.</p>
 
-## Information We Collect
+  <h2>How We Use Your Information</h2>
+  <p>We use your mobile phone number and message content solely to:</p>
+  <ul>
+    <li>Respond to and coordinate maintenance requests</li>
+    <li>Confirm appointment dates and times</li>
+    <li>Send summary confirmations of scheduled appointments or callbacks</li>
+    <li>Provide emergency safety instructions when applicable</li>
+    <li>Communicate with you regarding your tenancy-related maintenance needs</li>
+  </ul>
 
-When you text START to (502) 660-8679 to opt in, or otherwise send us a message, we collect and store your mobile phone number along with any messages you send to us regarding maintenance requests, appointment scheduling, or callback requests.
+  <h2>Message Frequency</h2>
+  <p>Message frequency varies based on maintenance activity and your interactions with the service. You will only receive messages related to maintenance requests you initiate or appointments associated with those requests.</p>
 
-## How We Use Your Information
+  <h2>Message and Data Rates</h2>
+  <p>Message and data rates may apply. Please consult your mobile carrier for details regarding your messaging plan.</p>
 
-We use your mobile phone number and message content solely to:
+  <h2>No Sharing of Mobile Information</h2>
+  <p><strong>We do not share, sell, rent, or disclose your mobile phone number or opt-in status to any third party or affiliate for marketing or promotional purposes.</strong> Your mobile information will not be shared for marketing purposes.</p>
+  <p>We may share your information only in the following limited circumstances:</p>
+  <ul>
+    <li>With emergency services or the property manager when necessary to respond to a safety emergency you have reported</li>
+    <li>When required by law, subpoena, or legal process</li>
+    <li>With service providers who help us operate this messaging service, bound by confidentiality obligations, and only as necessary to provide the service</li>
+  </ul>
 
-- Respond to and coordinate maintenance requests
-- Confirm appointment dates and times
-- Send summary confirmations of scheduled appointments or callbacks
-- Provide emergency safety instructions when applicable
-- Communicate with you regarding your tenancy-related maintenance needs
+  <h2>Opting Out</h2>
+  <p>You may opt out of receiving SMS messages at any time by replying <strong>STOP</strong> to any message. For assistance, reply <strong>HELP</strong>.</p>
 
-## Message Frequency
+  <h2>Data Retention</h2>
+  <p>We retain your phone number and message history for as long as necessary to provide the maintenance communication service and to comply with legal obligations.</p>
 
-Message frequency varies based on maintenance activity and your interactions with the service. You will only receive messages related to maintenance requests you initiate or appointments associated with your tenancy.
+  <h2>Changes to This Policy</h2>
+  <p>We may update this Privacy Policy from time to time. Any changes will be posted at this same location with a revised effective date.</p>
 
-## Message and Data Rates
-
-Message and data rates may apply. Please consult your mobile carrier for details regarding your messaging plan.
-
-## No Sharing of Mobile Information
-
-**We do not share, sell, rent, or disclose your mobile phone number or opt-in status to any third party or affiliate for marketing or promotional purposes.** Your mobile information will not be shared with third parties for their own marketing purposes under any circumstances. Your phone number is used exclusively for the maintenance communication service described in this policy.
-
-We may share your information only in the following limited circumstances:
-
-- With emergency services or the property manager when necessary to respond to a safety emergency you have reported
-- When required by law, subpoena, or legal process
-- With service providers who help us operate this messaging service, bound by confidentiality obligations, and only as necessary to provide the service
-
-## Opting Out
-
-You may opt out of receiving SMS messages at any time by replying **STOP** to any message. For assistance, reply **HELP**.
-
-## Data Retention
-
-We retain your phone number and message history for as long as necessary to provide the maintenance communication service and to comply with legal obligations.
-
-## Changes to This Policy
-
-We may update this Privacy Policy from time to time. Any changes will be posted at this same location with a revised effective date.
-
-## Contact Us
-
-If you have questions about this Privacy Policy, please contact Gloria Marshall at gloriaemarshall@icloud.com or 502-807-6153.
+  <h2>Contact Us</h2>
+  <p>If you have questions about this Privacy Policy, please contact Gloria Marshall at <a href="mailto:gloriaemarshall@icloud.com">gloriaemarshall@icloud.com</a> or <a href="tel:502-807-6153">502-807-6153</a>.</p>
+</body>
+</html>
